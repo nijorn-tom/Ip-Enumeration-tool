@@ -8,4 +8,4 @@ pip install python-nmap
 pip install scapy
 
 
-python3 shadescan.py -r <ip-address> -p <port>
+python3 shadescan.py -r IP -p PORT
